@@ -1,4 +1,4 @@
-# mini_todo_app
+### Settup firebase first with cli before run this
 
 A new Flutter project.
 
